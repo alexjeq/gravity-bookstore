@@ -20,20 +20,3 @@ This contains the following tables:
 * **shipping_method**: the possible shipping methods for an order.
 * **order_history**: the history of an order, such as ordered, cancelled, delivered.
 * **order_status**: the possible statuses of an order.
-0 comments on commit c667b22
-@alexjeq
-Comment
- 
-Leave a comment
- 
-Footer
-© 2024 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
