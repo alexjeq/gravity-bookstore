@@ -1,31 +1,4 @@
-Skip to content
-alexjeq
-/
-gravity-bookstore
-
-Type / to search
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Commit
-Update README.md
- main
-@alexjeq
-alexjeq committed last week 
-1 parent 5d8d24d
-commit c667b22
-Showing 1 changed file with 22 additions and 1 deletion.
- 23 changes: 22 additions & 1 deletion23  
-README.md
-@@ -1 +1,22 @@
-# gravity-bookstore	# Bookstore
+# Bookstore
 
 Here’s the ERD of the sample bookstore database we’ll be looking at.
 
